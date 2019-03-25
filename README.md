@@ -1,10 +1,10 @@
 # PBKK2
 a) Deskripsi singkat jalannya aplikasi
 - Data yang harus dientry di dalam form
-      Nama Transportasi
-      Merk Transportasi
-      Warna Transportasi
-      Tahun Transportasi
+      1. Nama Transportasi
+      2. Merk Transportasi
+      3. Warna Transportasi
+      4. Tahun Transportasi
       
 - Bagaimana data diproses pada controller (sebutkan pula route URL dan fungsi yang memproses form tersebut)
 
