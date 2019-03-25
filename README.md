@@ -1,6 +1,6 @@
 # PBKK2
 a) Deskripsi singkat jalannya aplikasi
-- Data yang harus dientry di dalam form
+- Data yang harus dientry di dalam form :
       1. Nama Transportasi
       2. Merk Transportasi
       3. Warna Transportasi
